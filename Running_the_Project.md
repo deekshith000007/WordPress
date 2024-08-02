@@ -1,22 +1,22 @@
 # 1. Open ArgoCD
 
--> Create a New Application
+- Create a New Application
 
--> App Name: Wordpress
--> Project Name: default
--> Sync Policy: Automatic
--> Repository URL: https://github.com/deekshith000007/WordPress.git
--> Revision: HEAD
--> Path: WordPress/WordPress
--> Cluster URL: https://kubernetes.default.svc
--> Namespace: default
+- App Name: Wordpress
+- Project Name: default
+- Sync Policy: Automatic
+- Repository URL: https://github.com/deekshith000007/WordPress.git
+- Revision: HEAD
+- Path: WordPress/WordPress
+- Cluster URL: https://kubernetes.default.svc
+- Namespace: default
 
-->Create the Application
+- Create the Application
 
 # 2. Open Kubectl Terminal
 
--> kubectl get pods
--> kubectl get svc
+- kubectl get pods
+- kubectl get svc
 
 # 3. Access WordPress
 
