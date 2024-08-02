@@ -10,6 +10,6 @@
 - **Step 3: Deploy WordPress Application with ArgoCD**
 
 # For reference you can use these files:
-- **For EKS Setup: EKS_CLuste_Setupr.md**
+- **For EKS Setup: EKS_Cluster_Setup.md**
 - **For ArgoCD : ArgoCD_Setup.md**
 - **For Deploying  : Running_the_Project.md**
