@@ -5,6 +5,7 @@
 - EC2 Instance
 - AWS CLI (latest version)
 
+Steps to run the project
 - Step 1: Setup Kubernetes on Amazon EKS
 - Step 2: Setup ArgoCD
 - Step 3: Deploy WordPress Application with ArgoCD
