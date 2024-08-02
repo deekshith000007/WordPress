@@ -37,7 +37,7 @@ You can follow same procedure in the official  AWS document [Getting started wit
    CloudFormation  
    Note: Check eksctl documentaiton for [Minimum IAM policies](https://eksctl.io/usage/minimum-iam-policies/)
 
-4.   # Once IAM role created attach that IAM Role to ec2 instance
+4. Once IAM role created attach that IAM Role to ec2 instance
     Actions--> secuity--> Modify IAM Role
    
 5. Create your cluster and nodes 
