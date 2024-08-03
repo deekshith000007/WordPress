@@ -7,7 +7,7 @@
   3. Sync Policy: Automatic
   4. Repository URL: https://github.com/deekshith000007/WordPress.git
   5. Revision: HEAD
-  6. Path: WordPress/WordPress
+  6. Path: WordPress
   7. Cluster URL: https://kubernetes.default.svc
   8. Namespace: default
   9. Create the Application
