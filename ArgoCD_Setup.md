@@ -32,5 +32,5 @@ kubectl edit secret argocd-initial-admin-secret -n argocd
 ```
 Decode the password using base64
 ```
-echo M2tRVjhNczFjQ0g2VlZYSQ== | base64 --decode
+echo <password> | base64 --decode
 ```
