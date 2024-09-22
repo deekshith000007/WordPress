@@ -1,16 +1,18 @@
-# WordPress Application Deployment with EKS, ArgoCD, and GitHub
-  This guide provides steps to deploy a WordPress application on Amazon EKS using ArgoCD for continuous deployment and GitHub for source control.
+<h1>WordPress Application Deployment with EKS, ArgoCD, and GitHub</h1>
+This guide provides a step-by-step process for deploying a WordPress application on Amazon EKS, utilizing ArgoCD for continuous deployment and GitHub for source control.<br>
 
- Prerequisites
-- EC2 Instance
-- AWS CLI (latest version)
+<br>Prerequisites<br>
+Before you begin, ensure you have the following:<br>
 
-Steps to run the project
-- Step 1: Setup Kubernetes on Amazon EKS
-- Step 2: Setup ArgoCD
-- Step 3: Deploy WordPress Application with ArgoCD
+An EC2 Instance to host your application.<br>
+The AWS CLI installed and configured (latest version).<br>
+Steps to Run the Project<br>
+Step 1: Set Up Kubernetes on Amazon EKS<br>
+Follow these instructions to configure your Kubernetes cluster on Amazon EKS.<br>
 
- For reference you can use these files:
-- For EKS Setup: EKS_Cluster_Setup.md
-- For ArgoCD : ArgoCD_Setup.md
-- For Deploying  : Running_the_Project.md
+Step 2: Set Up ArgoCD<br>
+Learn how to install and configure ArgoCD for managing your application deployments.<br>
+
+Step 3: Deploy the WordPress Application with ArgoCD<br>
+Get detailed steps on deploying your WordPress application using ArgoCD, ensuring a smooth and efficient deployment process.<br>
+
